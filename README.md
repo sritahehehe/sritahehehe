@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sritapurnya Barik</h1>
+<h1 align="center">Hi ji, srita this side!</h1>
 <h3 align="center">Jine ke hey 4 din</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
