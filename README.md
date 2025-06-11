@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **ML,UI&UX**
+- 💬 Ask me about **Java, Python, Machine Learning**
 
 - 📫 How to reach me **sritawork@gmail.com**
 
 - 📄 Know about my experiences [Soon](Soon)
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact -**I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
